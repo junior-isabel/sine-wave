@@ -11,9 +11,9 @@ Um tipo de animação que todos os detalhes vai, influenciar significativamente 
 
 Dicas: 
 tentar alterar os valores das seguintes variaveis.
-
+exemplo:
 `
-let amplitude = 120;
-let waveEffect = 360;
-let activeColor = false;
+let amplitude = 200;
+let waveEffect = 210;
+let activeColor = true;
 `

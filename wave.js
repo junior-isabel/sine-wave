@@ -36,7 +36,6 @@ function Wave() {
 }
 
 
-
 const wave = Wave()
 function loop() {
   requestAnimationFrame(loop)
